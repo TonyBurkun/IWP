@@ -1,0 +1,25 @@
+{
+  "name": "iwp",
+  "description": "iwp",
+  "main": "",
+  "authors": [
+    "Tony <burkun.anton@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "normalize.css#^5.0.0",
+    "bootstrap": ">=3.3.0",
+    "perfect-scrollbar": "~0.6.1",
+    "bootstrap-select": "^1.12.1",
+    "jquery": "^1.10",
+    "chosen_v1.4.0": "https://github.com/harvesthq/chosen/releases/download/v1.4.0/chosen_v1.4.0.zip"
+  }
+}
